@@ -85,16 +85,53 @@ RAG remediation on DeepSeek / CodeLlama: **−20%** compile fails, **−35%** CW
 
 ---
 
+### Side projects
+
+Things I build for myself — mostly local-first, on-device, and a little over-engineered on purpose.
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**NotchNest** · Swift  
+DynamicLake-style notch companion for Apple Silicon MacBooks — music, calendar, file shelf, weather, and a pomodoro that traces the notch.
+
+</td>
+<td width="50%" valign="top">
+
+**Cortex** · Python  
+Local second brain over an Obsidian vault: semantic search, RAG chat, connections, and capture — Apple on-device AI, no API key.
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**Finance Tracker** · Swift / iOS  
+Private on-device personal finance app — accounts, budgets, CSV/Splitwise import, OCR bill scan, and Ask AI over your money. No servers, no subscriptions.
+
+</td>
+<td width="50%" valign="top">
+
+**Cosmic Calendar Sync** · Rust  
+COSMIC panel applet (Pop!_OS) with an Apple-Calendar-style month grid, syncing iCloud + Outlook via CalDAV.
+
+</td>
+</tr>
+</table>
+
+---
+
 ### Stack
 
 ```text
-Languages   Python · TypeScript · JavaScript · C/C++ · Java · Go · SQL
+Languages   Python · TypeScript · JavaScript · Swift · Rust · C/C++ · Java · Go · SQL
 ML / AI     PyTorch · LangChain · HuggingFace · Scikit-Learn · OpenCV
 Systems     React · Node.js · FastAPI · Next.js · WebSockets · MongoDB
 ```
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,pytorch,ts,react,nodejs,fastapi,nextjs,git,linux,docker&perline=10" alt="skill icons" />
+  <img src="https://skillicons.dev/icons?i=python,pytorch,ts,react,nodejs,fastapi,nextjs,swift,rust,git&perline=10" alt="skill icons" />
 </p>
 
 ---
