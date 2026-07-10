@@ -17,7 +17,7 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&multiline=true&width=720&height=70&lines=Building+agents+that+plan%2C+reason%2C+and+adapt.;Shipping+full-stack+systems+alongside+the+research." alt="typing tagline" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&width=720&height=40&lines=Building+agents+that+plan%2C+reason%2C+and+adapt." alt="typing tagline" />
 
 </div>
 
@@ -25,9 +25,7 @@
 
 ### About
 
-I'm an MS student at **Penn State** working on problems at the intersection of **large language models** and **reinforcement learning** — better reasoning, alignment, and agents that can plan in the real world.
-
-I also ship production software: RAG systems, real-time collaborative editors, and ML apps from prototype to deployment.
+I'm an MS student at **Penn State** working on problems at the intersection of **large language models** and **reinforcement learning** — better reasoning, alignment, and agents that can plan in the real world. I've also worked on full-stack systems such as RAG pipelines, real-time collaborative editors, and ML apps from prototype to deployment.
 
 📍 University Park, PA
 
