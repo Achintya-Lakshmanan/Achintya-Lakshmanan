@@ -87,20 +87,18 @@ RAG remediation on DeepSeek / CodeLlama: **−20%** compile fails, **−35%** CW
 
 ### Side projects
 
-Things I build for myself — mostly local-first, on-device, and a little over-engineered on purpose.
-
 <table>
 <tr>
 <td width="50%" valign="top">
 
 **NotchNest** · Swift  
-DynamicLake-style notch companion for Apple Silicon MacBooks — music, calendar, file shelf, weather, and a pomodoro that traces the notch.
+Notch companion for MacBooks — music, calendar, file shelf, weather, and timer.
 
 </td>
 <td width="50%" valign="top">
 
 **Cortex** · Python  
-Local second brain over an Obsidian vault: semantic search, RAG chat, connections, and capture — Apple on-device AI, no API key.
+Second brain over an Obsidian vault — semantic search, RAG chat, and note connections.
 
 </td>
 </tr>
@@ -108,13 +106,13 @@ Local second brain over an Obsidian vault: semantic search, RAG chat, connection
 <td width="50%" valign="top">
 
 **Finance Tracker** · Swift / iOS  
-Private on-device personal finance app — accounts, budgets, CSV/Splitwise import, OCR bill scan, and Ask AI over your money. No servers, no subscriptions.
+Personal finance app — accounts, budgets, imports, and AI insights.
 
 </td>
 <td width="50%" valign="top">
 
 **Cosmic Calendar Sync** · Rust  
-COSMIC panel applet (Pop!_OS) with an Apple-Calendar-style month grid, syncing iCloud + Outlook via CalDAV.
+COSMIC panel calendar applet syncing iCloud and Outlook events.
 
 </td>
 </tr>
