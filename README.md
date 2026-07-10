@@ -25,7 +25,7 @@
 
 ### About
 
-I'm an MS student at **Penn State** working on problems at the intersection of **large language models** and **reinforcement learning** — better reasoning, alignment, and agents that can plan in the real world. I've also worked on full-stack systems such as RAG pipelines, real-time collaborative editors, and ML apps from prototype to deployment.
+I'm an MS student at **Penn State** working on problems at the intersection of **large language models** and **reinforcement learning**, better reasoning, alignment, and agents that can plan in the real world. I've also worked on full-stack systems such as RAG pipelines, real-time collaborative editors, and ML apps from prototype to deployment.
 
 📍 University Park, PA
 
