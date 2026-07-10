@@ -107,10 +107,10 @@ Previously: Lumel · Phosphene AI · Culvii · Optisol · Vision & Image Process
 <div align="center">
 
 <a href="https://github.com/Achintya-Lakshmanan">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Achintya-Lakshmanan&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=22D3EE&text_color=EDE9FE&ring_color=A78BFA" alt="GitHub stats" />
+  <img height="165" src="https://github-readme-stats-anuraghazra1.vercel.app/api?username=Achintya-Lakshmanan&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=22D3EE&text_color=EDE9FE" alt="GitHub stats" />
 </a>
 &nbsp;&nbsp;
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Achintya-Lakshmanan&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=EDE9FE" alt="Top languages" />
+<img height="165" src="https://github-readme-stats-anuraghazra1.vercel.app/api/top-langs/?username=Achintya-Lakshmanan&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=EDE9FE" alt="Top languages" />
 
 <br/><br/>
 
