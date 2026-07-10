@@ -9,9 +9,11 @@
 
 **MS CS @ Penn State** · LLM & RL Research · Full-Stack
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-achintya--lakshmanan.github.io-0a0a0f?style=for-the-badge&logo=vercel&logoColor=a78bfa)](https://achintya-lakshmanan.github.io)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-achintya975-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/achintya975)
-[![Email](https://img.shields.io/badge/Email-aql6062%40psu.edu-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aql6062@psu.edu)
+[`portfolio`](https://achintya-lakshmanan.github.io)
+&nbsp;·&nbsp;
+[`linkedin`](https://linkedin.com/in/achintya975)
+&nbsp;·&nbsp;
+[`email`](mailto:aql6062@psu.edu)
 
 <br/>
 
