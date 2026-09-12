@@ -1,164 +1,43 @@
-<!--
-  GitHub profile README — https://github.com/Achintya-Lakshmanan
-  Special repo: username/username. Push to main to update the profile page.
--->
-
-<div align="center">
-
 # Achintya Lakshmanan
 
-**MS CS @ Penn State** · LLM & RL Research · Full-Stack
+**Software Engineer · ML Researcher · Graduate Researcher @ Penn State NLP Group**
 
-[`portfolio`](https://achintya-lakshmanan.github.io)
-&nbsp;·&nbsp;
-[`linkedin`](https://linkedin.com/in/achintya975)
-&nbsp;·&nbsp;
-[`email`](mailto:aql6062@psu.edu)
+I’m an MS Computer Science and Engineering student at **Penn State** (expected May 2027), based in University Park, PA. I build full-stack and native macOS software and study language-model systems, retrieval-augmented generation, agents, and structured decoding.
 
-<br/>
+[Portfolio](https://achintya-lakshmanan.github.io) · [GitHub repositories](https://github.com/Achintya-Lakshmanan?tab=repositories) · [LinkedIn](https://linkedin.com/in/achintya975) · [Email](mailto:aql6062@psu.edu)
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&width=720&height=40&lines=Building+agents+that+plan%2C+reason%2C+and+adapt." alt="typing tagline" />
+## Research
 
-</div>
+### AURA — Adapting Daily Routines to Extreme Heat
 
----
+AURA studies how simulated agents adapt daily routines during heatwaves. It pairs observed time-use patterns with LLM activity proposals; matched runs with and without model input separate model contribution from simulator baseline. I built an ATUS-grounded activity-selection controller scoring four candidate plans before execution. Evaluation is ongoing; no adaptation result is claimed yet.
 
-### About
+**Supporting research**
 
-I'm an MS student at **Penn State** working on problems at the intersection of **large language models** and **reinforcement learning**, better reasoning, alignment, and agents that can plan in the real world. I've also worked on full-stack systems such as RAG pipelines, real-time collaborative editors, and ML apps from prototype to deployment.
+- **Multi-agent RAG:** Collaborative study of KV-cache transfer bias in a downstream judge. I helped build the LangGraph pipeline and compare cache transfer with matched perturbation controls; task-level answer quality remains unresolved. [Repository](https://github.com/vivek032001/Quantized-KV-Cache-Transfer-for-Multi-Agent-RAG)
+- **Secure code generation:** Coauthored [a preprint](https://arxiv.org/abs/2601.00509) evaluating **3,242 programs** generated offline by DeepSeek-Coder-1.3B and CodeLlama-7B with retrieval and compiler/security tools.
+- **Controlled Text-to-SQL:** Implemented grammar- and schema-aware MCTS for early SQL decisions followed by greedy completion; oracle and deployable settings remain separate, with evaluation in progress.
+- **Computer vision:** Built a compact PyTorch ResNet U-Net plus histogram equalization for dense haze restoration; placed **16th of 128** at **14.4 dB PSNR**.
 
-📍 University Park, PA
+## Software
 
----
+### NotchNest — Native macOS
 
-### Now building
+Native macOS 14+ accessory built in **Swift 6, AppKit, and SwiftUI**; turns the MacBook notch into compact surfaces for media, meetings, files, weather, timers, and a camera mirror with system-state integrations.
 
-```text
-AURA ............... LLM agents for urban heatwave simulation (plan-as-edit, not open-loop)
-Steering ........... Hallucination mitigation via activation steering on thinking models
-Multi-agent RAG .... Attention bias / "memory infection" from KV-cache transfer
-MCTS decoding ...... Search over high-leverage SQL prefixes for controlled Text-to-SQL
-```
+### Krypton — Financial Investigation Workflow
 
----
+Team-built prototype combining transaction anomaly scoring, phishing checks, IP lookup, and a React/Node.js investigation dashboard. I contributed model building and frontend integration. **Winner, Encryptcon Shaastra Hackathon** with IIT Madras and Temenos. [Repository](https://github.com/Achintya-Lakshmanan/Technica_LAVA)
 
-### Featured work
+### Lumel — Professional Product Work
 
-<table>
-<tr>
-<td width="50%" valign="top">
+Built a collaborative JSON editor with **React, Node.js, WebSockets, and TypeScript** for synchronized analytics configuration, plus a TypeScript RAG assistant translating natural-language requests into Inforiver Matrix formulas.
 
-**Attention Bias in Multi-Agent RAG**  
-KV-cache transfer can bias the judge. INT4 cache noise rescues biased decisions across Llama-3, Mistral, and Qwen2.
+## Experience
 
-[`repo →`](https://github.com/vivek032001/Quantized-KV-Cache-Transfer-for-Multi-Agent-RAG)
+**Graduate Researcher**, Penn State NLP Group (Apr 2026–Present) · **Learning Assistant**, Penn State (Sep 2025–Present) · **Product Developer Intern**, Lumel (Mar–Jun 2025) · **Research Intern**, SNU Vision & Image Processing Lab (Aug 2024–Mar 2025). Earlier: Phosphene AI, Culvii, and Optisol.
 
-</td>
-<td width="50%" valign="top">
+## Skills
 
-**MCTS for Controlled Text Generation**  
-Treat Text-to-SQL as search: **+97%** relative exact-match vs SMC on SPIDER (12.6% vs 6.4%).
-
-`MCTS · grammar constraints · AWRS rollouts`
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-**Krypton — Fraud Detection**  
-Winner, Encryptcon Shaastra (IIT Madras + Temenos) · 400+ teams. RF anomaly detection @ 99% accuracy.
-
-[`repo →`](https://github.com/Achintya-Lakshmanan/Technica_LAVA)
-
-</td>
-<td width="50%" valign="top">
-
-**Secure Code Generation**  
-RAG remediation on DeepSeek / CodeLlama: **−20%** compile fails, **−35%** CWE vulns, **−55%** semantic errors.
-
-[`arxiv →`](https://arxiv.org/abs/2601.00509)
-
-</td>
-</tr>
-</table>
-
----
-
-### Side projects
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-**NotchNest** · Swift  
-Notch companion for MacBooks — music, calendar, file shelf, weather, and timer.
-
-</td>
-<td width="50%" valign="top">
-
-**Cortex** · Python  
-Second brain over an Obsidian vault — semantic search, RAG chat, and note connections.
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-**Finance Tracker** · Swift / iOS  
-Personal finance app — accounts, budgets, imports, and AI insights.
-
-</td>
-<td width="50%" valign="top">
-
-**Cosmic Calendar Sync** · Rust  
-COSMIC panel calendar applet syncing iCloud and Outlook events.
-
-</td>
-</tr>
-</table>
-
----
-
-### Stack
-
-```text
-Languages   Python · TypeScript · JavaScript · Swift · Rust · C/C++ · Java · Go · SQL
-ML / AI     PyTorch · LangChain · HuggingFace · Scikit-Learn · OpenCV
-Systems     React · Node.js · FastAPI · Next.js · WebSockets · MongoDB
-```
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,pytorch,ts,react,nodejs,fastapi,nextjs,swift,rust,git&perline=10" alt="skill icons" />
-</p>
-
----
-
-### Elsewhere
-
-Graduate researcher @ **Penn State NLP Group** · Learning Assistant (CMPSC 461 / 311)  
-Previously: Lumel · Phosphene AI · Culvii · Optisol · Vision & Image Processing Lab (SNU)
-
-<div align="center">
-
-<a href="https://github.com/Achintya-Lakshmanan">
-  <img height="165" src="https://github-readme-stats-anuraghazra1.vercel.app/api?username=Achintya-Lakshmanan&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=22D3EE&text_color=EDE9FE" alt="GitHub stats" />
-</a>
-&nbsp;&nbsp;
-<img height="165" src="https://github-readme-stats-anuraghazra1.vercel.app/api/top-langs/?username=Achintya-Lakshmanan&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=EDE9FE" alt="Top languages" />
-
-<br/><br/>
-
-<img src="https://streak-stats.demolab.com?user=Achintya-Lakshmanan&theme=radical&hide_border=true&background=0D1117&ring=A78BFA&fire=22D3EE&currStreakLabel=EDE9FE" alt="GitHub streak" />
-
-</div>
-
----
-
-<div align="center">
-
-**[Portfolio](https://achintya-lakshmanan.github.io)** · **[LinkedIn](https://linkedin.com/in/achintya975)** · **[Email](mailto:aql6062@psu.edu)**
-
-<sub>Open to research collaborations and interesting engineering problems.</sub>
-
-</div>
+- **ML & research:** Python · PyTorch · Hugging Face · vLLM · LangGraph · scikit-learn · NumPy / Pandas · OpenCV · MCTS / search
+- **Software & systems:** TypeScript · JavaScript · Swift · React · Node.js · Next.js · FastAPI · WebSockets · SwiftUI · AppKit · SQL / MongoDB · Docker · Power BI
