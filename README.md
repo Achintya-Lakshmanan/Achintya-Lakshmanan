@@ -10,7 +10,7 @@ I’m an MS Computer Science and Engineering student at **Penn State** (expected
 
 ### AURA — Adapting Daily Routines to Extreme Heat
 
-AURA studies how simulated agents adapt daily routines during heatwaves. It pairs observed time-use patterns with LLM activity proposals; matched runs with and without model input separate model contribution from simulator baseline. I built an ATUS-grounded activity-selection controller scoring four candidate plans before execution. Evaluation is ongoing; no adaptation result is claimed yet.
+AURA studies how simulated agents adapt daily routines during heatwaves. It pairs observed time-use patterns with LLM activity proposals; matched runs with and without model input separate model contribution from simulator baseline. I built an ATUS-grounded activity-selection controller scoring four candidate plans before execution.
 
 **Supporting research**
 
